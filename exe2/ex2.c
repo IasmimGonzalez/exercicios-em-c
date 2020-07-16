@@ -2,7 +2,10 @@
  a raiz quadrada deste número. */
 #include <stdio.h>
 #include <math.h>
-#include <stdint.h>
+#include <stdlib.h>
+
+
+
 int main(){
 
     int valor;
